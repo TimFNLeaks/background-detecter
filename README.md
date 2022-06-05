@@ -5,7 +5,6 @@ A bot to generate the current Fortnite Lobby and Shop Background in only a few s
 Run install.bat and wait until all packages are installed.
 Now you can run run.bat. Wait a few seconds until you see two links. 
 Click on any link and you should see the current Lobby or Shop Background!
-
 Here's a preview image: 
 ![image](https://user-images.githubusercontent.com/86020466/172049233-9c9e09fb-4b02-4d14-a2ac-3b62b1623713.png)
 
