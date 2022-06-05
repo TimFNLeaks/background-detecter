@@ -10,6 +10,8 @@ It should look like this:
 
 
 If you open any link you should see the selected background! (copy the link and paste it in your browser)
+
+
 The bot is also useful for updates since it tracks both backgrounds every single minute!
 
 
