@@ -6,7 +6,7 @@ Run install.bat and wait until all packages are installed.
 Now you can run run.bat. Wait a few seconds until you see two links. 
 Click on any link and you should see the current Lobby or Shop Background!
 Here's a preview image: 
-[image](https://user-images.githubusercontent.com/86020466/172049202-bf9d8afe-c8f5-4b36-86b8-28c705f575e5.png)
+![image](https://user-images.githubusercontent.com/86020466/172049202-bf9d8afe-c8f5-4b36-86b8-28c705f575e5.png)
 
 
 ## Problems 
