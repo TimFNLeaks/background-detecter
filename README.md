@@ -18,5 +18,5 @@ If you got any errors or have problems, feel free to DM Tim on Discord:
 Tim.#5798
 
 # License
-This Bot is made by [Artlfmj](https://github.com/Artlfmj) and [Tim](https://twitter.com/TimFNLeaks)
+This Bot is made by [Artlfmj](https://github.com/Artlfmj) and [Tim](https://twitter.com/TimFNLeaks).
 If you want to use this code in your project, make sure to credit us both!
