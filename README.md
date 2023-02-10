@@ -1,6 +1,8 @@
 # What is that?
 A bot to generate the current Fortnite Lobby and Shop Background in only a few seconds!
 
+⚠️ Since FN-API has shut down, this program is outdated ⚠️
+
 # Usage
 Run install.bat and wait until all packages are installed.
 Now you can run run.bat. Wait a few seconds until you see two links. 
